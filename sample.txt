@@ -5,3 +5,4 @@ add-2
 ちょっと追加
 git rm
 git status
+diff
