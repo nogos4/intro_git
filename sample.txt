@@ -3,3 +3,4 @@ add-1
 add-2
 コメントを追加します git add/git commit
 ちょっと追加
+git rm
